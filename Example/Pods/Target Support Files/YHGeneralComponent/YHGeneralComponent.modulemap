@@ -1,0 +1,6 @@
+framework module YHGeneralComponent {
+  umbrella header "YHGeneralComponent-umbrella.h"
+
+  export *
+  module * { export * }
+}

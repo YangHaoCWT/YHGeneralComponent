@@ -1,0 +1,16 @@
+PODS:
+  - YHGeneralComponent (0.1.0)
+
+DEPENDENCIES:
+  - YHGeneralComponent (from `../`)
+
+EXTERNAL SOURCES:
+  YHGeneralComponent:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YHGeneralComponent: b19ffebdc717acc6a5345fc91032daf0e216f982
+
+PODFILE CHECKSUM: 7dc489e174c62270e719f4821c0cc079ba8c58b7
+
+COCOAPODS: 1.7.5
