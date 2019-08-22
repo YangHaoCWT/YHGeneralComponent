@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YHGeneralComponent_Example' do
+  pod 'YHGeneralComponent', :path => '../'
+
+  target 'YHGeneralComponent_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
